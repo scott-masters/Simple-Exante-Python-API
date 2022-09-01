@@ -46,5 +46,3 @@ I am not associated with Exante in any way, other than being one of their
 clients.
 
 I am happy to try to answer questions and resolve bugs.
-I am happy to try to answer questions and resolve bugs, you can email me at 
-scott.masters@protonmail.com.
